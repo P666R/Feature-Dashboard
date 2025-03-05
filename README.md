@@ -1,10 +1,10 @@
-# Project List UI
+# Feature Dashboard
 
 Project management dashboard built with React, Flowbite, Tailwind CSS, and Vite.
 
 ## Overview
 
-This project implements a "Project List" dashboard UI with the following features:
+This project implements a project list dashboard UI with the following features:
 
 - **Header**: Includes a logo, search bar, and user actions (notifications, profile, etc.).
 - **Left Sidebar**: Navigation menu (Teams, Tasks, Reports, Settings) and a teams list (Development, Design, Marketing).
@@ -16,8 +16,8 @@ This project implements a "Project List" dashboard UI with the following feature
 **Clone the Repository**:
 
 ```bash
-git clone <your-repo-url>
-cd project-list-ui
+git clone https://github.com/P666R/Feature-Dashboard.git
+cd Feature-Dashboard
 npm install
 npm run dev
 ```
