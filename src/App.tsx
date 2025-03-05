@@ -1,9 +1,7 @@
-// import { DarkThemeToggle } from "flowbite-react";
-//  use dark:bg-gray-800
-
 import { Header } from "./features/header";
 import { LeftSidebar } from "./features/leftSidebar";
 import { ProjectList } from "./features/projectList";
+import { RightSidebar } from "./features/rightSidebar";
 
 function App() {
   return (
@@ -12,6 +10,7 @@ function App() {
       <div className="flex">
         <LeftSidebar />
         <ProjectList />
+        <RightSidebar />
       </div>
     </main>
   );
